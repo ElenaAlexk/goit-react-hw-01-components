@@ -1,7 +1,6 @@
 .transaction {
   table-layout: fixed;
   width: 500px;
-  margin-left: 300px;
   margin-bottom: 20px;
   border-collapse: collapse;
   box-shadow: 0px 10px 30px rgba(63 77 93 / 45%);
