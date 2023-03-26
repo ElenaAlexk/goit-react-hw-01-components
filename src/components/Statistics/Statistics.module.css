@@ -1,6 +1,5 @@
 .statistics {
-  margin-left: 320px;
-  margin-top: 40px;
+  margin: 0 auto;
   width: 300px;
   text-align: center;
 }
